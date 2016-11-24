@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: 9bf04c0770c3a8d498dc38dbbc7b31bd
+timeCreated: 1479452069
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_L_jnt
+    100002: ankle_R_jnt
+    100004: ear_L_end
+    100006: ear_L_jnt
+    100008: ear_R_end
+    100010: ear_R_jnt
+    100012: elbow_L_jnt
+    100014: elbow_R_jnt
+    100016: eye_L_end
+    100018: eye_L_jnt
+    100020: eye_R_end
+    100022: eye_R_jnt
+    100024: fingers_L_end
+    100026: fingers_R_end
+    100028: foot_L_jnt
+    100030: foot_R_jnt
+    100032: //RootNode
+    100034: hand_L_jnt
+    100036: hand_R_jnt
+    100038: head_end
+    100040: head_jnt
+    100042: heel_L_end
+    100044: heel_R_end
+    100046: hip_01_L_jnt
+    100048: hip_01_R_jnt
+    100050: hip_02_L_jnt
+    100052: hip_02_R_jnt
+    100054: jaw_end
+    100056: jaw_jnt
+    100058: knee_L_jnt
+    100060: knee_R_jnt
+    100062: model1:BearBody_GEO
+    100064: model1:botTeeth
+    100066: model1:eyeBall_L
+    100068: model1:eyeBall_R
+    100070: model1:geo
+    100072: model1:topTeeth
+    100074: neck_01_jnt
+    100076: neck_02_jnt
+    100078: neck_03_jnt
+    100080: neck_04_jnt
+    100082: palm_L_end
+    100084: palm_R_end
+    100086: root_jnt
+    100088: scapula_L_jnt
+    100090: scapula_R_jnt
+    100092: shoulder_01_L_jnt
+    100094: shoulder_01_R_jnt
+    100096: shoulder_02_L_jnt
+    100098: shoulder_02_R_jnt
+    100100: spine_01_iks
+    100102: spine_02_iks
+    100104: spine_03_iks
+    100106: spine_04_iks
+    100108: spine_05_iks
+    100110: spine_06_iks
+    100112: tail_01_jnt
+    100114: tail_02_jnt
+    100116: tail_03_end
+    100118: toes_L_end
+    100120: toes_R_end
+    100122: wrist_L_jnt
+    100124: wrist_R_jnt
+    400000: ankle_L_jnt
+    400002: ankle_R_jnt
+    400004: ear_L_end
+    400006: ear_L_jnt
+    400008: ear_R_end
+    400010: ear_R_jnt
+    400012: elbow_L_jnt
+    400014: elbow_R_jnt
+    400016: eye_L_end
+    400018: eye_L_jnt
+    400020: eye_R_end
+    400022: eye_R_jnt
+    400024: fingers_L_end
+    400026: fingers_R_end
+    400028: foot_L_jnt
+    400030: foot_R_jnt
+    400032: //RootNode
+    400034: hand_L_jnt
+    400036: hand_R_jnt
+    400038: head_end
+    400040: head_jnt
+    400042: heel_L_end
+    400044: heel_R_end
+    400046: hip_01_L_jnt
+    400048: hip_01_R_jnt
+    400050: hip_02_L_jnt
+    400052: hip_02_R_jnt
+    400054: jaw_end
+    400056: jaw_jnt
+    400058: knee_L_jnt
+    400060: knee_R_jnt
+    400062: model1:BearBody_GEO
+    400064: model1:botTeeth
+    400066: model1:eyeBall_L
+    400068: model1:eyeBall_R
+    400070: model1:geo
+    400072: model1:topTeeth
+    400074: neck_01_jnt
+    400076: neck_02_jnt
+    400078: neck_03_jnt
+    400080: neck_04_jnt
+    400082: palm_L_end
+    400084: palm_R_end
+    400086: root_jnt
+    400088: scapula_L_jnt
+    400090: scapula_R_jnt
+    400092: shoulder_01_L_jnt
+    400094: shoulder_01_R_jnt
+    400096: shoulder_02_L_jnt
+    400098: shoulder_02_R_jnt
+    400100: spine_01_iks
+    400102: spine_02_iks
+    400104: spine_03_iks
+    400106: spine_04_iks
+    400108: spine_05_iks
+    400110: spine_06_iks
+    400112: tail_01_jnt
+    400114: tail_02_jnt
+    400116: tail_03_end
+    400118: toes_L_end
+    400120: toes_R_end
+    400122: wrist_L_jnt
+    400124: wrist_R_jnt
+    4300000: model1:BearBody_GEO
+    4300002: model1:botTeeth
+    4300004: model1:topTeeth
+    4300006: model1:eyeBall_L
+    4300008: model1:eyeBall_R
+    7400000: walk_f
+    9500000: //RootNode
+    13700000: model1:BearBody_GEO
+    13700002: model1:botTeeth
+    13700004: model1:eyeBall_L
+    13700006: model1:eyeBall_R
+    13700008: model1:topTeeth
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk_f
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: model1:geo
+        weight: 1
+      - path: model1:geo/model1:BearBody_GEO
+        weight: 1
+      - path: model1:geo/model1:botTeeth
+        weight: 1
+      - path: model1:geo/model1:eyeBall_L
+        weight: 1
+      - path: model1:geo/model1:eyeBall_R
+        weight: 1
+      - path: model1:geo/model1:topTeeth
+        weight: 1
+      - path: root_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_L_jnt/hip_02_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_L_jnt/hip_02_L_jnt/knee_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_L_jnt/hip_02_L_jnt/knee_L_jnt/ankle_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_L_jnt/hip_02_L_jnt/knee_L_jnt/ankle_L_jnt/foot_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_L_jnt/hip_02_L_jnt/knee_L_jnt/ankle_L_jnt/foot_L_jnt/toes_L_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_L_jnt/hip_02_L_jnt/knee_L_jnt/ankle_L_jnt/heel_L_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_R_jnt/hip_02_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_R_jnt/hip_02_R_jnt/knee_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_R_jnt/hip_02_R_jnt/knee_R_jnt/ankle_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_R_jnt/hip_02_R_jnt/knee_R_jnt/ankle_R_jnt/foot_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_R_jnt/hip_02_R_jnt/knee_R_jnt/ankle_R_jnt/foot_R_jnt/toes_R_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/hip_01_R_jnt/hip_02_R_jnt/knee_R_jnt/ankle_R_jnt/heel_R_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/ear_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/ear_L_jnt/ear_L_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/ear_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/ear_R_jnt/ear_R_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/eye_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/eye_L_jnt/eye_L_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/eye_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/eye_R_jnt/eye_R_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/head_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/jaw_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/neck_01_jnt/neck_02_jnt/neck_03_jnt/neck_04_jnt/head_jnt/jaw_jnt/jaw_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt/shoulder_01_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt/shoulder_01_L_jnt/shoulder_02_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt/shoulder_01_L_jnt/shoulder_02_L_jnt/elbow_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt/shoulder_01_L_jnt/shoulder_02_L_jnt/elbow_L_jnt/wrist_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt/shoulder_01_L_jnt/shoulder_02_L_jnt/elbow_L_jnt/wrist_L_jnt/hand_L_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt/shoulder_01_L_jnt/shoulder_02_L_jnt/elbow_L_jnt/wrist_L_jnt/hand_L_jnt/fingers_L_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_L_jnt/shoulder_01_L_jnt/shoulder_02_L_jnt/elbow_L_jnt/wrist_L_jnt/palm_L_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt/shoulder_01_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt/shoulder_01_R_jnt/shoulder_02_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt/shoulder_01_R_jnt/shoulder_02_R_jnt/elbow_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt/shoulder_01_R_jnt/shoulder_02_R_jnt/elbow_R_jnt/wrist_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt/shoulder_01_R_jnt/shoulder_02_R_jnt/elbow_R_jnt/wrist_R_jnt/hand_R_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt/shoulder_01_R_jnt/shoulder_02_R_jnt/elbow_R_jnt/wrist_R_jnt/hand_R_jnt/fingers_R_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/spine_02_iks/spine_03_iks/spine_04_iks/spine_05_iks/spine_06_iks/scapula_R_jnt/shoulder_01_R_jnt/shoulder_02_R_jnt/elbow_R_jnt/wrist_R_jnt/palm_R_end
+        weight: 1
+      - path: root_jnt/spine_01_iks/tail_01_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/tail_01_jnt/tail_02_jnt
+        weight: 1
+      - path: root_jnt/spine_01_iks/tail_01_jnt/tail_02_jnt/tail_03_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root_jnt
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: df0421c4290a4064f83dedad753181ef,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

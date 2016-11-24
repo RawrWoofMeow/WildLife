@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Fur
+  m_Shader: {fileID: 4800000, guid: 709411c076ec94df2a95a346ae4b7640, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 47d2d908061f54ba8bf31c9af00a9a3c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0.12264151
+    - first:
+        name: _EdgeFade
+      second: 0.14150943
+    - first:
+        name: _FurLength
+      second: 0.08508868
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _LightDirection
+      second: {r: 1, g: 0, b: 0, a: 0.2}
+    - first:
+        name: _LightDirection0
+      second: {r: 0, g: 0, b: -1, a: 0}
+    - first:
+        name: _LightDirection1
+      second: {r: 0, g: 0.848, b: 0.53, a: 5.750409e-18}
+    - first:
+        name: _MyLightColor0
+      second: {r: 0.7118639, g: 0.7168536, b: 0.6773785, a: 0.08}
+    - first:
+        name: _MyLightColor1
+      second: {r: 0.12558176, g: 0.25152972, b: 0.38094148, a: 0}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6
